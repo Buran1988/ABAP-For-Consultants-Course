@@ -1,0 +1,17 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"SEPM_SDDL_SO_INVOICE_ITEM"
+],
+"ASSOCIATED":
+[],
+"BASE":
+[],
+"ANNO_REF":
+[],
+"VERSION":0,
+"ANNOREF_EVALUATION_ERROR":""
+}
+}
